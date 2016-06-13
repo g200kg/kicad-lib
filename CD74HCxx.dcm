@@ -1,0 +1,454 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD74HC00
+D Quad 2Input Nand
+K Nand2
+$ENDCMP
+#
+$CMP CD74HC02
+D Quad 2Input Nor
+K Nor2
+$ENDCMP
+#
+$CMP CD74HC03
+D Quad 2Input Nand OpenDrain
+K Nand2 OpenDrain
+$ENDCMP
+#
+$CMP CD74HC04
+D Hex Inverter
+K Not Inv
+$ENDCMP
+#
+$CMP CD74HC05
+D Hex Inverter OpenDrain
+K Not Inv OpenDrain
+$ENDCMP
+#
+$CMP CD74HC07
+D Hex Buffer OpenDrain
+K Buf OpenDrain
+$ENDCMP
+#
+$CMP CD74HC08
+D Quad 2Input And
+K And2
+$ENDCMP
+#
+$CMP CD74HC10
+D Triple 3Input Nand
+K Nand3
+$ENDCMP
+#
+$CMP CD74HC107
+D Dual JK FlipFlop NegativeEdgeTrig Reset
+K JKFF
+$ENDCMP
+#
+$CMP CD74HC109
+D Dual JK FlipFlop PositiveEdgeTrig Set Reset
+K JKFF
+$ENDCMP
+#
+$CMP CD74HC11
+D Triple 3Input And
+K And3
+$ENDCMP
+#
+$CMP CD74HC123
+D Dual Retriggerable Monostable Multivibrators PositiveEdgeReset
+K Monostable
+$ENDCMP
+#
+$CMP CD74HC125
+D Quad Bus Buffer 3State
+K Buf 3state
+$ENDCMP
+#
+$CMP CD74HC126
+D Quad Bus Buffer 3State
+K Buf 3state
+$ENDCMP
+#
+$CMP CD74HC132
+D Quad 2Input Schmitt Nand
+K Nand2 Schmitt
+$ENDCMP
+#
+$CMP CD74HC133
+D 13Input Nand
+K Nand13
+$ENDCMP
+#
+$CMP CD74HC138
+D 3to8 Line Decoder Inverting
+K Dec8
+$ENDCMP
+#
+$CMP CD74HC139
+D Dual 2to4 Decoder
+K Dec4
+$ENDCMP
+#
+$CMP CD74HC14
+D Hex Schmitt Inverter
+K Not Inv Schmitt
+$ENDCMP
+#
+$CMP CD74HC148
+D 8to3 Priority Encoder
+K Enc8
+$ENDCMP
+#
+$CMP CD74HC151
+D 8to1 Multiplexer
+K Mux8
+$ENDCMP
+#
+$CMP CD74HC153
+D Dual 4to1 Multiplexer
+K Mux4
+$ENDCMP
+#
+$CMP CD74HC157
+D Quad 2Input Multiplexers NonInverting
+K Mux2
+$ENDCMP
+#
+$CMP CD74HC158
+D Quad 2Input Multiplexers Inverting
+K Mux2
+$ENDCMP
+#
+$CMP CD74HC161
+D 4bit Binary Presettable Synchronous Counter AsyncReset
+K Cnt4
+$ENDCMP
+#
+$CMP CD74HC163
+D 4bit Binary Presettable Synchronous Counter SyncReset
+K Cnt4
+$ENDCMP
+#
+$CMP CD74HC164
+D 8Bit SerialIn ParallelOut ShiftRegister
+K Reg8
+$ENDCMP
+#
+$CMP CD74HC165
+D 8Bit ParallelIn SerialOut ShiftRegister
+K Reg8
+$ENDCMP
+#
+$CMP CD74HC174
+D Hex D-type FlipFlop Reset
+K DFF Reg6
+$ENDCMP
+#
+$CMP CD74HC175
+D Quad D-Type FlipFlop Reset
+K DFF Reg4
+$ENDCMP
+#
+$CMP CD74HC191
+D 4 bits Synchronous Binary Counter Up/Down
+K Cnt4
+$ENDCMP
+#
+$CMP CD74HC192
+D Presettable Synchronous 4Bit BCD  Up/Down (2 clk) Counter
+K Cnt4
+$ENDCMP
+#
+$CMP CD74HC193
+D Presettable Synchronous 4Bit Binary  Up/Down (2 clk) Counter
+K Cnt4
+$ENDCMP
+#
+$CMP CD74HC20
+D Dual 4Input Nand
+K Nand4
+$ENDCMP
+#
+$CMP CD74HC21
+D Dual 4Input And
+K And4
+$ENDCMP
+#
+$CMP CD74HC221
+D Dual Monostable Multivibrator Reset
+K Mono
+$ENDCMP
+#
+$CMP CD74HC238
+D 3to8 Decoder NonInverting
+K Dec8
+$ENDCMP
+#
+$CMP CD74HC240
+D Octal Inverting Buffer 3State
+K Inv Buf 3State
+$ENDCMP
+#
+$CMP CD74HC241
+D Octal Buffer 3State
+K Buf 3State
+$ENDCMP
+#
+$CMP CD74HC244
+D Octal Buffer 3State
+K Buf 3State
+$ENDCMP
+#
+$CMP CD74HC245
+D Octal Bus Transceiver 3State NonInverting
+K Bus 3State
+$ENDCMP
+#
+$CMP CD74HC253
+D Dual 4Input Multiplexer 3State
+K Mux4 3State
+$ENDCMP
+#
+$CMP CD74HC257
+D Quad 2to1 Multiplexer 3State NonInverting
+K Mux2
+$ENDCMP
+#
+$CMP CD74HC259
+D 8bit Addressable Latch
+K Reg8
+$ENDCMP
+#
+$CMP CD74HC27
+D Triple 3Input Nor
+K Nor3
+$ENDCMP
+#
+$CMP CD74HC273
+D Octal DType FlipFlop Reset
+K DFF8
+$ENDCMP
+#
+$CMP CD74HC280
+D 9bit OddEven Parity Generator Checker
+K Arith
+$ENDCMP
+#
+$CMP CD74HC283
+D 4Bit Binary Full Adder Fast Carry
+K Add Arith
+$ENDCMP
+#
+$CMP CD74HC299
+D 8 bits Universal ShiftRegister 3State
+K Reg8
+$ENDCMP
+#
+$CMP CD74HC30
+D 8Input Nand
+K Nand8
+$ENDCMP
+#
+$CMP CD74HC32
+D Quad 2Input Or
+K Or2
+$ENDCMP
+#
+$CMP CD74HC367
+D Hex Buffer 3State NonInverting
+K Buf6 3State
+$ENDCMP
+#
+$CMP CD74HC368
+D Hex Buffer 3State Inverting
+K Buf6 Inv 3State
+$ENDCMP
+#
+$CMP CD74HC373
+D Octal Transparent DType Latch 3State
+K DFF8 3State Latch
+$ENDCMP
+#
+$CMP CD74HC374
+D Octal DType FlipFlop 3State PositiveEdgeTrig
+K DFF8 Reg8 3State
+$ENDCMP
+#
+$CMP CD74HC375
+D Quad DType Latch
+K DFF4 Latch
+$ENDCMP
+#
+$CMP CD74HC377
+D Octal DType FlipFlop DataEnable
+K DFF8
+$ENDCMP
+#
+$CMP CD74HC390
+D Dual Decate Ripple Counter
+K Cnt4
+$ENDCMP
+#
+$CMP CD74HC393
+D Dual 4Stage Binary Counter
+K Cnt4
+$ENDCMP
+#
+$CMP CD74HC40103
+D 8Stage Synchronous Down Counter
+K Cnt8
+$ENDCMP
+#
+$CMP CD74HC40105
+D 4Bit 16Word FIFO Register
+K Reg4
+$ENDCMP
+#
+$CMP CD74HC4017
+D Decade Counter (5Stage Jonshon)
+K Cnt10
+$ENDCMP
+#
+$CMP CD74HC4024
+D 7Stage Binary Ripple Counter
+K Cnt7
+$ENDCMP
+#
+$CMP CD74HC4028
+D BCD Decimal Decorder
+K Dec10
+$ENDCMP
+#
+$CMP CD74HC4040
+D 12Stages Binary Counter
+K Cnt12
+$ENDCMP
+#
+$CMP CD74HC4049
+D Hex Inverter
+K Inv
+$ENDCMP
+#
+$CMP CD74HC4051
+D 8to1 Analog Multiplexer
+K Analog Mux8
+$ENDCMP
+#
+$CMP CD74HC4052
+D Dual 4to1 Analog Multiplexer
+K Analog Mux4
+$ENDCMP
+#
+$CMP CD74HC4053
+D Triple 2to1 Analog Multiplexer
+K Analog Mux2
+$ENDCMP
+#
+$CMP CD74HC4060
+D 14Stage Binary Counter Oscillator
+K Cnt14 Osc
+$ENDCMP
+#
+$CMP CD74HC4066
+D Quad Bilateral Switch Analog
+K Analog Switch
+$ENDCMP
+#
+$CMP CD74HC42
+D BCDtoDecimal 4to10 Decoder
+K Dec10
+$ENDCMP
+#
+$CMP CD74HC423
+D Dual Retriggerable Monostable Reset
+K Mono
+$ENDCMP
+#
+$CMP CD74HC4511
+D BCD to 7Segment Latch Decoder Driver
+K 7Seg Dec
+$ENDCMP
+#
+$CMP CD74HC4538
+D Dual Retriggerable Precision Monostable Multivibrator
+K Mono
+$ENDCMP
+#
+$CMP CD74HC534
+D Octal DType FlipFlop 3State Inverting PositiveEdgeTrig
+K DFF8 Reg8 3State Inv
+$ENDCMP
+#
+$CMP CD74HC540
+D Octal Buffer 3State Inverting
+K Buff8 Inv
+$ENDCMP
+#
+$CMP CD74HC541
+D Octal Buffer 3State NonInverting
+K Buf8
+$ENDCMP
+#
+$CMP CD74HC564
+D Octal DType FlipFlop 3State Inverting PositiveEdgeTrig
+K DFF8 Reg8 3State Inv
+$ENDCMP
+#
+$CMP CD74HC573
+D Octal Transparent DType Latch 3State
+K DFF8 3State Latch
+$ENDCMP
+#
+$CMP CD74HC574
+D Octal DType FlipFlop 3State PositiveEdgeTrig
+K DFF8 3State
+$ENDCMP
+#
+$CMP CD74HC590
+D 8Bit Binary Counter Register 3State
+K Cnt8 Reg8 3State
+$ENDCMP
+#
+$CMP CD74HC595
+D 8Bit ShiftRegister 3 State
+K Reg8 3State
+$ENDCMP
+#
+$CMP CD74HC597
+D 8Bit DType FlipFlop ShiftRegister InputStorage
+K DFF8 Reg8
+$ENDCMP
+#
+$CMP CD74HC640
+D Octal Bus Transceiver 3State Inverting
+K Bus 3State Inv
+$ENDCMP
+#
+$CMP CD74HC688
+D 8Bit Magnitude Comparator
+K Comp8
+$ENDCMP
+#
+$CMP CD74HC73
+D Dual JK FlipFlop, NegativeEdgeTrig Reset
+K JK JKFF
+$ENDCMP
+#
+$CMP CD74HC74
+D Dual D FlipFlop, PositiveEdgeTrig Set Reset
+K DFF
+F 74xx/74hc_hct74.pdf
+$ENDCMP
+#
+$CMP CD74HC85
+D 4 bits Magnitude Comparator
+K Comp4
+$ENDCMP
+#
+$CMP CD74HC86
+D Quad 2Input ExclusiveOr
+K Xor2
+$ENDCMP
+#
+#End Doc Library
