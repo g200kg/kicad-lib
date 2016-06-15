@@ -14,6 +14,8 @@ small size TTL symbols　library
 
 ### ota.lib/dcm
 OTA (Operational transconductance amplifier) symbols. These are important for analog synths.
+
+アナログシンセ等で良く使用されるOTA (Operational transconductance amplifier) のライブラリです。
 ![ota.png](ota.png)
 
 
