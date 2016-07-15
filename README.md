@@ -18,6 +18,11 @@ OTA (Operational transconductance amplifier) symbols. These are important for an
 アナログシンセ等で良く使用されるOTA (Operational transconductance amplifier) のライブラリです。
 ![ota.png](ota.png)
 
+### Kyuukon.lib/dcm
+Bulbs of amaryllis that is suddenly sold by japanese famouse electric parts store 'Akizuki'.
+
+秋月電子で突然発売されて話題になった彼岸花の球根です。
+![kyuukon.png](kyuukon.png)
 
 ## License
   CC0 1.0 Universal
