@@ -21,7 +21,7 @@ OTA (Operational transconductance amplifier) symbols. These are important for an
 ### Kyuukon.lib/dcm
 Bulbs of amaryllis that is suddenly sold by japanese famouse electric parts store 'Akizuki'.
 
-秋月電子で突然発売されて話題になった彼岸花の球根です。
+秋月電子で突然発売されて話題になった彼岸花の球根です。  
 ![kyuukon.png](kyuukon.png)
 
 ## License
